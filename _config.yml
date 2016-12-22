@@ -1,11 +1,11 @@
 # Site settings
-title: Mushank
-SEOTitle: Mushank | Jack's Blog
+title: Ym.L
+SEOTitle: yimin.lu | L's Blog
 header-img: img/home-bg.jpg
 email: mushank@Gmail.com
 description: "关于移动开发与设计、生活与艺术 | Mushank, Mobile Dev & Design, Life & Art | 这里是 @Jack 的个人博客，与你一起发现更大的世界。"
 keyword: "Jack, Mushank, Blog"
-url: "http://127.0.0.1:4000"            # your host, for absolute URL
+url: "http://127.0.0.1"            # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -14,7 +14,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 RSS: false
 # weibo_username:     mushank
 # zhihu_username:     mushank
-github_username:    mushank
+github_username:    lymyiyefeng
 # twitter_username:   mushankkk
 # facebook_username:  mushank
 
@@ -68,7 +68,7 @@ ga_track_id: 'UA-87707150-1'            # Format: UA-xxxxxx-xx
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "人生如逆旅，我亦是行人<br>离开世界之前，一切皆是修行"
+sidebar-about-description: "路过的风景，错过的人"
 sidebar-avatar: /img/avatar-jack.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
