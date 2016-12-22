@@ -69,7 +69,7 @@ ga_track_id: 'UA-87707150-1'            # Format: UA-xxxxxx-xx
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "路过的风景，错过的人"
-sidebar-avatar: /img/lym.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/lym.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
